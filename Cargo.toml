@@ -1,0 +1,1 @@
+[package]\nname = "test-os-1"\nversion = "0.1.0"\nedition = "2021"\n\n[dependencies]\ngraphics = "0.4"\ninput-handling = "0.5"\nos-dev = { version = "0.1", features = ["graphics", "input"] }\n
